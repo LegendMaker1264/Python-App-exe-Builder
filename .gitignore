@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Builder-generated files
+.build-venv/
+.exe-build/
+build/
+dist/
+*.spec
+
+# Windows
+Thumbs.db
+Desktop.ini
